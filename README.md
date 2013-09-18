@@ -1,4 +1,4 @@
-us-federal-code
-===============
+us-code-sd
+==========
 
-Raw XML of the federal code of laws
+XSL Translation for the US Code into StateDecoded
